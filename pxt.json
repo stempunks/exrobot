@@ -1,0 +1,30 @@
+{
+    "name": "robotbit",
+    "version": "0.4.6",
+    "description": "Extension for Kittenbot Robotbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:kittenbot/pxt-neopixel",
+        "SensorPlus": "github:kittenbothk/pxt-moduleplus",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/robotbit-strings.json",
+        "_locales/zh-tw/robotbit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "6.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
