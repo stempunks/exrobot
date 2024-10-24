@@ -1,7 +1,7 @@
 {
     "name": "ExRobot",
     "version": "0.4.6",
-    "description": "Extension for Kittenbot Robotbit",
+    "description": "Extension for ExRobot Board",
     "license": "MIT",
     "dependencies": {
         "core": "*",
