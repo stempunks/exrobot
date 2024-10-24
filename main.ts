@@ -6,7 +6,7 @@ load dependency
 */
 
 
-//% color="#000000" weight=10 icon="\uf1d0"
+//% color="#000000" weight=10 icon="\f013"
 namespace robotbit {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
