@@ -6,7 +6,6 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:kittenbot/pxt-neopixel",
-        "SensorPlus": "github:kittenbothk/pxt-moduleplus",
         "microphone": "*"
     },
     "files": [
